@@ -10,6 +10,6 @@ then identifysubsequent behaviors inconsistent with the proﬁles asmasquerading
 Psychosocial behaviors are analyzed to detect saboteurs,who are known to often display concerning psychosocialbehaviors prior to carrying out their attacks.
 
 
-#Conclusion
+# Conclusion
 We surveyed diﬀerent insider threat detectionapproaches and found that insider threat detectionis not a single research ﬁeld, 
 but a conglomerationof independent research ﬁelds in computer scienceand even psychology or sociology.
