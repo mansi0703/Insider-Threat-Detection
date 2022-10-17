@@ -7,7 +7,7 @@ Organizations ﬁrst build a proﬁle of each employeerepresenting their legitim
 identify subsequent behaviors inconsistent with the proﬁles asmasquerading attempts.
 
 # Psychosocial behavior
-Psychosocial behaviors are analyzed to detect saboteurs,who are known to often display concerning psychosocialbehaviors prior to carrying out their attacks.
+Psychosocial behaviors are analyzed to detect saboteurs,who are known to often display concerning psychosocial behaviors prior to carrying out their attacks.
 
 
 # Conclusion
