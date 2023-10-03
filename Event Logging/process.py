@@ -8,7 +8,7 @@ from gensim.models import TfidfModel, nmf
 from gensim.corpora import Dictionary as Dict
 from gensim.models.ldamulticore import LdaModel
 from multiprocessing import Pool
-from functools import partial
+from functools import partial 
 
 CHUNK_SIZE = 10000
 TOPIC_NUM = 100
